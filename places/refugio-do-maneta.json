@@ -1,0 +1,23 @@
+{
+  "name": "Refúgio do Maneta",
+  "description": {
+    "pt": "Restaurante gerido por um celíaco. Recomenda-se avisar na véspera para que possam preparar a comida.",
+    "en": "Restaurant run by a celiac. It is recommended to notify the day before so that they can prepare the food.",
+    "fr": "Restaurant tenu par un coeliaque. Il est recommandé de prévenir la veille afin qu'ils puissent préparer les repas.",
+    "es": "Restaurante regentado por celíaco. Se recomienda avisar el día anterior para que puedan preparar la comida."
+  },
+  "gid": "ChIJDXzkhwAwHw0RCpQtrjmpMBE",
+  "address": [
+    "R. Inácio Nunes da Costa n°5",
+    "2560-546 Silveira"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 39.1121286,
+    "lng": -9.366643899999998
+  },
+  "categories": [
+    "restaurant"
+  ],
+  "attestation": "none"
+}

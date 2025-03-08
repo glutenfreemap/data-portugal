@@ -1,0 +1,13 @@
+{
+  "name": "Braga Maximinos",
+  "address": [
+    "Maximinos",
+    "Rua Abrão, Lote 1 Quinta das Portas",
+    "4705-076 BRAGA"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.540941,
+    "lng": -8.430826
+  }
+}

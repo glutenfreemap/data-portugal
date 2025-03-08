@@ -1,0 +1,24 @@
+{
+  "name": "O Agridoce",
+  "description": {
+    "pt": "Todas as refeições são isentas de glúten.",
+    "en": "All meals are gluten-free.",
+    "fr": "Tous les repas sont sans gluten.",
+    "es": "Todas las comidas son sin gluten."
+  },
+  "gid": "ChIJ5eA6QB87GQ0R0c4KCXPZMmc",
+  "address": [
+    "R. Comendador Estevão de Oliveira 33",
+    "2890-044 Alcochete"
+  ],
+  "region": "setúbal",
+  "position": {
+    "lat": 38.7561862,
+    "lng": -8.9615857
+  },
+  "categories": [
+    "restaurant",
+    "bakery"
+  ],
+  "attestation": "none"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Santos",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJv2p45R01GQ0RxU1oj2EIgFU",
+  "address": [
+    "Largo do Conde Barão 37",
+    "1200-118 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.708662,
+    "lng": -9.1522327
+  }
+}

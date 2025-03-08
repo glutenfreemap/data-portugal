@@ -1,0 +1,13 @@
+{
+  "name": "Birre",
+  "address": [
+    "Birre",
+    "Rua de Birre, 581",
+    "2750-217 CASCAIS"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.715251,
+    "lng": -9.446847
+  }
+}

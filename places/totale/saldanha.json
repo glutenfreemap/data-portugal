@@ -1,0 +1,19 @@
+{
+  "name": "Saldanha",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJYyyU364zGQ0RbEcR08k89EI",
+  "address": [
+    "Praça José Fontana 17A",
+    "1050-129 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7300099,
+    "lng": -9.1445622
+  }
+}

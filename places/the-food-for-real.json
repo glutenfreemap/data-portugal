@@ -1,0 +1,24 @@
+{
+  "name": "The Food for Real",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJH4EKzag0GQ0RQmZkvy9IN-E",
+  "address": [
+    "R. dos Lusíadas 51 A",
+    "1300-366 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7050543,
+    "lng": -9.1808102
+  },
+  "categories": [
+    "bakery",
+    "restaurant"
+  ],
+  "attestation": "none"
+}

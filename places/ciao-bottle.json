@@ -1,0 +1,23 @@
+{
+  "name": "Ciao Bottle",
+  "description": {
+    "pt": "Restaurante com pratos sem glúten. Tem sempre massas. Para pizza, tem que se avisar com 24h.",
+    "en": "Restaurant with gluten-free dishes. There's always pasta. For pizza, you have to give 24 hours notice.",
+    "fr": "Restaurant avec plats sans gluten. Il y a toujours des pâtes. Pour la pizza, vous devez donner un préavis de 24 heures.",
+    "es": "Restaurante con platos sin gluten. Siempre hay pasta. Para pizza hay que avisar con 24 horas de antelación."
+  },
+  "gid": "ChIJB8JUm-c3Iw0RQji2nIakJDE",
+  "address": [
+    "Rua Estevão Lopes Morgado Lote 327 R/C Loja 1",
+    "3500-085 Viseu"
+  ],
+  "region": "viseu",
+  "position": {
+    "lat": 40.654159,
+    "lng": -7.9209458
+  },
+  "categories": [
+    "restaurant"
+  ],
+  "attestation": "none"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Avenida Dr Renato Araujo/ Rua comendador Rainho, 3700-008",
+  "address": [
+    "Avenida Dr Renato Araujo/ Rua comendador Rainho, 3700-008",
+    "3700-008 São joão da Madeira"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.883526,
+    "lng": -8.487805
+  }
+}

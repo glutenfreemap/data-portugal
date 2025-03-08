@@ -1,0 +1,47 @@
+[
+    {
+        "id": "none",
+        "name": {
+            "pt": "Nenhuma",
+            "en": "None",
+            "fr": "Aucune",
+            "es": "Ninguno"
+        },
+        "description": {
+            "pt": "Não certificado.",
+            "en": "Not certified.",
+            "fr": "Non certifié.",
+            "es": "No certificado"
+        }
+    },
+    {
+        "id": "apc-certified",
+        "name": {
+            "pt": "Certificado",
+            "en": "Certified",
+            "fr": "Certifié",
+            "es": "Asesorado"
+        },
+        "description": {
+            "pt": "Certificado pela APC.",
+            "en": "Certified by the APC.",
+            "fr": "Certifié par l'APC.",
+            "es": "Asesorado por APC"
+        }
+    },
+    {
+        "id": "apc-validated",
+        "name": {
+            "pt": "Validado",
+            "en": "Validated",
+            "fr": "Validé",
+            "es": "Validado"
+        },
+        "description": {
+            "pt": "Procedimentos da empresa validados pela APC, mas sem certificação de cada estabelecimento.",
+            "en": "Company procedures validated by APC, but without certification for each establishment.",
+            "fr": "Procédures de l'entreprise validées par l'APC, mais sans certification pour chaque établissement.",
+            "es": "Los procedimientos de la empresa están validados por APC, pero sin certificación para cada establecimiento."
+        }
+    }
+]

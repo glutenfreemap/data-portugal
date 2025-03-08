@@ -1,0 +1,13 @@
+{
+  "name": "Forum Viseu ( local)",
+  "gid": "ChIJq0mjmEw2Iw0R3XxeQ2n-LJg",
+  "address": [
+    "Fórum Viseu, Rua Dom José da Cruz Moreira Pinto, Piso 2, loja nº 2.19",
+    "3514-078 Viseu"
+  ],
+  "region": "viseu",
+  "position": {
+    "lat": 40.6618393,
+    "lng": -7.9144639
+  }
+}
