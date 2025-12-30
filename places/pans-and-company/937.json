@@ -8,5 +8,11 @@
   "position": {
     "lat": 41.14138935,
     "lng": -8.636928613475156
+  },
+  "fixes": {
+    "address": [
+      "Praceta de Henrique Moreira 244",
+      "4400-436 Vila Nova de Gaia"
+    ]
   }
 }
