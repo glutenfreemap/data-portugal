@@ -1,5 +1,5 @@
 {
-  "name": "Gaia Drive",
+  "name": "Gaia Mafamude Drive",
   "address": [
     "Gaia Drive",
     "Av. D. João II, 1701, Mafamude",
@@ -7,7 +7,7 @@
   ],
   "region": "porto",
   "position": {
-    "lat": 41.130114,
-    "lng": -8.596892
+    "lat": 41.126627,
+    "lng": -8.597818
   }
 }
