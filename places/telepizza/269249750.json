@@ -2,12 +2,12 @@
   "name": "Sines",
   "gid": "ChIJKWbtlruVGw0R7gh4250xGK0",
   "address": [
-    "Alameda da Paz n43",
+    "Alameda da Paz 43",
     "7520-110 Sines"
   ],
-  "region": "setúbal",
+  "region": "setubal",
   "position": {
-    "lat": 37.9585373,
-    "lng": -8.8668416
+    "lat": 37.95851030000001,
+    "lng": -8.866841599999999
   }
 }
