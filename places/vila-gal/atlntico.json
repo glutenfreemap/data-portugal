@@ -1,0 +1,13 @@
+{
+  "name": "Atlântico",
+  "gid": "ChIJ3W8cG3U0GQ0Rs3_G8WviAQM",
+  "address": [
+    "Apt. 2436",
+    "8200-995 Albufeira"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.0843567,
+    "lng": -8.3143613
+  }
+}
