@@ -1,0 +1,13 @@
+{
+  "name": "Náutico",
+  "gid": "ChIJP3EDu2vRGg0RtXsfDeqQ0p8",
+  "address": [
+    "R. do Vale do Olival",
+    "8365-158 Armação de Pêra"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.1041812,
+    "lng": -8.370448
+  }
+}
