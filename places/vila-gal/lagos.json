@@ -1,0 +1,13 @@
+{
+  "name": "Lagos",
+  "gid": "ChIJYyKCuM8vGw0RciPjKtyxang",
+  "address": [
+    "R. Sophia de Melo Breyner Andresen",
+    "8600-295 Lagos"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.1134909,
+    "lng": -8.6620881
+  }
+}
