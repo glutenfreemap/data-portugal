@@ -1,0 +1,13 @@
+{
+  "name": "Marina",
+  "gid": "ChIJLZDGKcdSBQ0RGtorwSvyRoo",
+  "address": [
+    "Av. da Marina",
+    "8125-406 Quarteira"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.0758804,
+    "lng": -8.1172285
+  }
+}
