@@ -3,5 +3,11 @@
   "attestation": "none",
   "categories": [
     "hotel"
-  ]
+  ],
+  "description": {
+    "pt": "<p>Todos os Hotéis do grupo Vila Galé oferecem pequenos almoços sem glúten, mediante pedido no ato da reserva, em tabuleiro exclusivo, com opções validadas pela APC.</p>",
+    "es": "<p>Todos los hoteles del grupo Vila Galé ofrecen desayuno sin gluten, bajo petición en el momento de la reserva, en bandeja exclusiva, con opciones validadas por la APC (Asociación Portuguesa de Protección del Gluten).</p>",
+    "en": "<p>All hotels in the Vila Galé group offer a gluten-free breakfast, upon request at the time of booking, on an exclusive tray, with options validated by the APC (Portuguese Association of Gluten Protection).</p>",
+    "fr": "<p>Tous les hôtels du groupe Vila Galé proposent un petit-déjeuner sans gluten, sur demande au moment de la réservation, sur un plateau exclusif, avec des options validées par l'APC (Association portugaise pour la protection du gluten).</p>"
+  }
 }
