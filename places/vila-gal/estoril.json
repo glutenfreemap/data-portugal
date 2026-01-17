@@ -1,0 +1,13 @@
+{
+  "name": "Estoril",
+  "gid": "ChIJdzSr28TFHg0RhrKXYQlxxoQ",
+  "address": [
+    "Av. Marginal 49",
+    "2766-901 Estoril"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7039543,
+    "lng": -9.3966308
+  }
+}

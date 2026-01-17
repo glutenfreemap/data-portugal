@@ -1,0 +1,13 @@
+{
+  "name": "Porto",
+  "gid": "ChIJJfnGYXl6JA0RCMnWVPTOnZg",
+  "address": [
+    "Av. de Fernão de Magalhães 7",
+    "4300-190 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.1508296,
+    "lng": -8.5991137
+  }
+}

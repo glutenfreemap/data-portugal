@@ -1,0 +1,13 @@
+{
+  "name": "Cerro Alagoa",
+  "gid": "ChIJs1Ij0B7MGg0RE7iGR4DiM5s",
+  "address": [
+    "R. do Município 26",
+    "8200-916 Albufeira"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.0902751,
+    "lng": -8.2439008
+  }
+}

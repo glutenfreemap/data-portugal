@@ -1,0 +1,13 @@
+{
+  "name": "Porto Ribeira",
+  "gid": "ChIJCdD6rhFlJA0R0Jin8U9bx0k",
+  "address": [
+    "Cais das Pedras 17 a 22",
+    "4050-465 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.1456699,
+    "lng": -8.6298984
+  }
+}

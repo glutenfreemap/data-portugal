@@ -1,0 +1,13 @@
+{
+  "name": "Coimbra",
+  "gid": "ChIJCW3HMQP5Ig0RgNQzIzmb5Ow",
+  "address": [
+    "R. Abel Dias Urbano 20",
+    "3000-001 Coimbra"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.2140478,
+    "lng": -8.4358533
+  }
+}

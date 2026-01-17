@@ -1,0 +1,13 @@
+{
+  "name": "Tavira",
+  "gid": "ChIJ4cSNWnADEA0RlK60U-7XJbs",
+  "address": [
+    "R. 4 de Outubro",
+    "8800-362 Tavira"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.1233581,
+    "lng": -7.645684
+  }
+}

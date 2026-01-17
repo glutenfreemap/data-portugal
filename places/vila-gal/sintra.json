@@ -1,0 +1,13 @@
+{
+  "name": "Sintra",
+  "gid": "ChIJ0_U9XkXaHg0RDDhqED9uxGE",
+  "address": [
+    "R. da Fonte da Granja nº 30",
+    "2710-652 Sintra"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.8303347,
+    "lng": -9.4037172
+  }
+}

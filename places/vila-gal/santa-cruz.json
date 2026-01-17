@@ -1,0 +1,13 @@
+{
+  "name": "Santa Cruz",
+  "gid": "ChIJBb4vNw9gYAwRf-ty3bltRGk",
+  "address": [
+    "R. De São Fernando 5",
+    "9100-173 Santa Cruz"
+  ],
+  "region": "madeira",
+  "position": {
+    "lat": 32.6866655,
+    "lng": -16.792904
+  }
+}
