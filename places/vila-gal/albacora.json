@@ -1,0 +1,13 @@
+{
+  "name": "Albacora",
+  "gid": "ChIJW-kI68ZSBQ0RhfVDdZvEZ3w",
+  "address": [
+    "Estr. das 4 Águas",
+    "8801-901 Tavira"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.1191013,
+    "lng": -7.6271958
+  }
+}
