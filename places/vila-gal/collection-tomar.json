@@ -1,0 +1,13 @@
+{
+  "name": "Collection Tomar",
+  "gid": "ChIJIx9kDaV-GA0RbxeToP01VJg",
+  "address": [
+    "R. Santa Iria 8",
+    "2300-473 Tomar"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.6044736,
+    "lng": -8.410066
+  }
+}
