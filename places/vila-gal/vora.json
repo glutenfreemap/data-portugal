@@ -1,0 +1,13 @@
+{
+  "name": "Évora",
+  "gid": "ChIJiQ8Q4SblGQ0RU2hINA0xkYM",
+  "address": [
+    "Avenida Túlio Espanca",
+    "7005-840 Évora"
+  ],
+  "region": "evora",
+  "position": {
+    "lat": 38.5670218,
+    "lng": -7.9161843
+  }
+}
