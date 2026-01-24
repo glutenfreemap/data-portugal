@@ -1,23 +1,23 @@
 {
-  "name": "Sam Pastelaria Saudável",
+  "name": "Sam Bolos e Doces Saudáveis",
+  "gid": "ChIJWxTsFIEzGQ0Ry1Oktkwpuc4",
+  "attestation": "apc-certified",
+  "address": [
+    "R. Luís Augusto Palmeirim 14C",
+    "1700-274 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7552668,
+    "lng": -9.1425764
+  },
   "description": {
     "pt": "",
     "en": "",
     "fr": "",
     "es": ""
   },
-  "gid": "ChIJBUItxlQyGQ0RPQWiret3wPU",
-  "address": [
-    "R. Luís Augusto Palmeirim 1D",
-    "1700-111 Lisboa"
-  ],
-  "region": "lisboa",
-  "position": {
-    "lat": 38.755404,
-    "lng": -9.1416426
-  },
   "categories": [
     "bakery"
-  ],
-  "attestation": "apc-certified"
+  ]
 }
