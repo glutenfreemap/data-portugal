@@ -1,0 +1,18 @@
+{
+  "name": "Açaí Enjoy Joy",
+  "gid": "ChIJQePCVAczGQ0RAeQqhshgr1E",
+  "attestation": "none",
+  "address": [
+    "R. Natália Correia 8",
+    "1170-270 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7206907,
+    "lng": -9.1292301
+  },
+  "description": {},
+  "categories": [
+    "fast-food"
+  ]
+}
