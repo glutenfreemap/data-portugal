@@ -28,6 +28,7 @@ $page = Invoke-WebRequest `
 
 $matched = $page.Content -match "(?s-imnx:var settings\s*=\s*(\{.*?\});)"
 if (-not $matched) {
+    $page.Content | Write-Host
     throw "Failed to parse the page"
 }
 
