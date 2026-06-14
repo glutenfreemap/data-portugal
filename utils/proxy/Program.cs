@@ -14,4 +14,14 @@ app.MapGet("/tp", async () =>
     return response;
 });
 
+app.MapGet("/pnc", async () =>
+{
+    using var client = new HttpClient();
+    client.DefaultRequestHeaders.Add("User-Agent", "GlutenFreeMap (glutenfreemap@aaubry.net)");
+    client.DefaultRequestHeaders.Add("Referer", "https://glutenfreemap.org");
+
+    var response = await client.GetStringAsync("https://www.pansandcompany.pt/onde-estamos/");
+    return response;
+});
+
 app.Run();

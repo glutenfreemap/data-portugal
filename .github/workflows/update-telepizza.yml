@@ -44,9 +44,9 @@ jobs:
         run: |
           cd utils
           if [[ "${{ github.ref_name }}" == "staging" ]]; then
-            pwsh -File Update-Telepizza.ps1 -Url "$REVERSE_PROXY" -AddMissingPlaces
+            pwsh -File Update-Telepizza.ps1 -Url "$REVERSE_PROXY/tp" -AddMissingPlaces
           else
-            pwsh -File Update-Telepizza.ps1 -Url "$REVERSE_PROXY"
+            pwsh -File Update-Telepizza.ps1 -Url "$REVERSE_PROXY/tp"
           fi
 
       - name: Check if file has changed

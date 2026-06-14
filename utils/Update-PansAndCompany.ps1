@@ -1,6 +1,8 @@
-$ErrorActionPreference = 'Stop'
+Param(
+    [string] $Url = "https://www.pansandcompany.pt/onde-estamos/"
+)
 
-$url = "https://www.pansandcompany.pt/onde-estamos/"
+$ErrorActionPreference = 'Stop'
 
 . (Join-Path $PSScriptRoot common.ps1)
 
@@ -23,7 +25,7 @@ Write-Host "Scraping the page"
 
 $page = Invoke-WebRequest `
     -UseBasicParsing `
-    -Uri $url `
+    -Uri $Url `
     @HttpClientCommonParams
 
 $matched = $page.Content -match "(?s-imnx:var settings\s*=\s*(\{.*?\});)"

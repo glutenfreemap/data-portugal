@@ -39,9 +39,11 @@ jobs:
           nuget restore -PackagesDirectory packages
 
       - name: Run Update-PansAndCompany.ps1 script
+        env:
+          REVERSE_PROXY: ${{ secrets.REVERSE_PROXY }}
         run: |
           cd utils
-          pwsh -File Update-PansAndCompany.ps1
+          pwsh -File Update-PansAndCompany.ps1 -Url "$REVERSE_PROXY/pnc"
 
       - name: Check if file has changed
         id: check_changes
