@@ -1,6 +1,7 @@
 {
   "name": "PANS - CascaiShopping",
   "address": [
+    "ENCERRADA TEMPORARIAMENTE PARA REMODELAÇÃO",
     "Estrada Nacional 9",
     "Loja 5B",
     "2645-543 Alcabideche"
@@ -8,6 +9,6 @@
   "region": "lisboa",
   "position": {
     "lat": 38.7379624,
-    "lng": -9.399246670568445
+    "lng": -9.3992466705684
   }
 }
