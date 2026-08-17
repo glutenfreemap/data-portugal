@@ -46,7 +46,7 @@ jobs:
       - name: Check if file has changed
         id: check_changes
         run: |
-          git diff --quiet -- places/mcdonalds/*.json || echo "changed=true" >> $GITHUB_OUTPUT
+          if [ -n "$(git status --porcelain -- places/mcdonalds/*.json)" ]; then echo "changed=true" >> $GITHUB_OUTPUT; fi
 
       - name: Commit and push changes
         if: steps.check_changes.outputs.changed == 'true'
