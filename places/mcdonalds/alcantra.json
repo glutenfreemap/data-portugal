@@ -1,0 +1,13 @@
+{
+  "name": "Alcântara",
+  "address": [
+    "Alcântra",
+    "Largo das Fontaínhas, 28 - 29 Alcântara – Calvário",
+    "1300-255 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.704861,
+    "lng": -9.17675
+  }
+}

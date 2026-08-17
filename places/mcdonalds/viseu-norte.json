@@ -1,0 +1,12 @@
+{
+  "name": "Viseu Norte",
+  "address": [
+    "Rua das Belgas Longas",
+    "3510-233 Viseu"
+  ],
+  "region": "viseu",
+  "position": {
+    "lat": 40.673556,
+    "lng": -7.910056
+  }
+}
