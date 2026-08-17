@@ -1,8 +1,10 @@
 # nuget restore -PackagesDirectory packages
 
-$ErrorActionPreference = 'Stop'
+Param(
+    [string] $Url = "https://www.mcdonalds.pt/restaurantes"
+)
 
-$url = "https://www.mcdonalds.pt/restaurantes"
+$ErrorActionPreference = 'Stop'
 
 . (Join-Path $PSScriptRoot common.ps1)
 
@@ -26,9 +28,24 @@ Get-ChildItem "$rootDir/places/mcdonalds/*.json" | % {
 
 Write-Host "Scraping the page"
 
+$HttpClientCommonParams = @{
+    UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0"
+    Headers = @{
+        "Accept" = "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+        "Accept-Language" = "pt-PT"
+        "Priority" = "u=0, i"
+        "Sec-Fetch-Dest" = "document"
+	    "Sec-Fetch-Mode" = "navigate"
+        "Sec-Fetch-Site" = "none"
+        "Sec-Fetch-User" = "?1"
+    }
+}
+
+# $HttpClientCommonParams["UserAgent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0"
+
 $page = Invoke-WebRequest `
     -UseBasicParsing `
-    -Uri $url `
+    -Uri $Url `
     @HttpClientCommonParams
 
 $doc = New-Object HtmlAgilityPack.HtmlDocument
@@ -82,7 +99,7 @@ $data `
         Write-Host "Getting address for $($_.name)"
         $page = Invoke-WebRequest `
             -UseBasicParsing `
-            -Uri "$url/$($_.id)" `
+            -Uri "$Url/$($_.id)" `
             @HttpClientCommonParams
 
         $doc = New-Object HtmlAgilityPack.HtmlDocument
