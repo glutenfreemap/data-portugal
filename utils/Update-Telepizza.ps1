@@ -44,7 +44,7 @@ $manualFixes = @{
 $placesByPhoneNumber = @{}
 $doc.DocumentNode.SelectNodes("//ul[@class='infotable']/li") `
     | % {
-        $phoneNumber = $_.SelectSingleNode("p/text()").Text.Trim() -replace " ",""
+        $phoneNumber = $_.SelectSingleNode("p/span/a/text()").Text.Trim() -replace " ",""
         $name = [System.Web.HttpUtility]::HtmlDecode(($_.SelectSingleNode("p/strong/text()|p/b/text()").Text.Trim()))
 
         if ($manualFixes.ContainsKey($name)) {
@@ -58,7 +58,6 @@ $doc.DocumentNode.SelectNodes("//ul[@class='infotable']/li") `
 
         $placesByPhoneNumber.Add($phoneNumber, $name)
     }
-
 
 Write-Host "Merging the data"
 
