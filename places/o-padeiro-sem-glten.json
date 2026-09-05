@@ -1,0 +1,23 @@
+{
+  "name": "O Padeiro Sem Glúten",
+  "gid": "ChIJ9TwFr5QpGw0RTFUI0xGopWM",
+  "attestation": "none",
+  "address": [
+    "R. do Moinho 5 Lj D",
+    "8500-590 Portimão"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.1433483,
+    "lng": -8.5350076
+  },
+  "description": {
+    "pt": "Padaria sem glúten, funciona exclusivamente por encomenda.",
+    "en": "Gluten-free bakery, works exclusively on order.",
+    "fr": "Boulangerie sans gluten, fonctionne exclusivement sur commande.",
+    "es": "Panadería sin gluten, funciona exclusivamente por encargo."
+  },
+  "categories": [
+    "bakery"
+  ]
+}
